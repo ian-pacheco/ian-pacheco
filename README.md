@@ -8,12 +8,14 @@
 - 💬 Ask me about anything, i definitly like to talk about almost every kind of topic. 
 - ⚡  It's a fact: "Verbum caro factum est, Verbum panis factum est"
 
-![Pacheco's github stats](https://github-readme-stats.vercel.app/api?username=ian-pacheco&show_icons=true&theme=radical)
-
 [![GitHub Followers](https://img.shields.io/github/followers/ian-pacheco?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/ian-pacheco)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/ian-pacheco-pereira-025196137/)
 
-### Languages and Tools
+![Pacheco's github stats](https://github-readme-stats.vercel.app/api?username=ian-pacheco&show_icons=true&theme=vue-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-pacheco&layout=compact)](https://github.com/ian-pacheco)
+  
+### Stack
 <p align="left">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
