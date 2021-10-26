@@ -1,4 +1,4 @@
-### Hi there, I'm Ian Pacheco 👋
+### Hi there, I'm Ian Pacheco Pereira, AKA Pachecaos 👋
 
 - 🔭 I’m currently working as Quality Analyst on [TerraMagna](https://terramagna.com.br/)
  to revolutionize brazilian agro.
